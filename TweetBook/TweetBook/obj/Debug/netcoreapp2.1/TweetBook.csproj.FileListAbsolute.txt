@@ -1,0 +1,14 @@
+C:\Users\Irada\source\repos\TweetBook\TweetBook\bin\Debug\netcoreapp2.1\TweetBook.deps.json
+C:\Users\Irada\source\repos\TweetBook\TweetBook\bin\Debug\netcoreapp2.1\TweetBook.runtimeconfig.json
+C:\Users\Irada\source\repos\TweetBook\TweetBook\bin\Debug\netcoreapp2.1\TweetBook.runtimeconfig.dev.json
+C:\Users\Irada\source\repos\TweetBook\TweetBook\bin\Debug\netcoreapp2.1\TweetBook.dll
+C:\Users\Irada\source\repos\TweetBook\TweetBook\obj\Debug\netcoreapp2.1\TweetBook.csprojAssemblyReference.cache
+C:\Users\Irada\source\repos\TweetBook\TweetBook\obj\Debug\netcoreapp2.1\TweetBook.csproj.CoreCompileInputs.cache
+C:\Users\Irada\source\repos\TweetBook\TweetBook\obj\Debug\netcoreapp2.1\TweetBook.RazorAssemblyInfo.cache
+C:\Users\Irada\source\repos\TweetBook\TweetBook\obj\Debug\netcoreapp2.1\TweetBook.RazorAssemblyInfo.cs
+C:\Users\Irada\source\repos\TweetBook\TweetBook\obj\Debug\netcoreapp2.1\TweetBook.AssemblyInfoInputs.cache
+C:\Users\Irada\source\repos\TweetBook\TweetBook\obj\Debug\netcoreapp2.1\TweetBook.AssemblyInfo.cs
+C:\Users\Irada\source\repos\TweetBook\TweetBook\obj\Debug\netcoreapp2.1\TweetBook.RazorTargetAssemblyInfo.cache
+C:\Users\Irada\source\repos\TweetBook\TweetBook\bin\Debug\netcoreapp2.1\TweetBook.pdb
+C:\Users\Irada\source\repos\TweetBook\TweetBook\obj\Debug\netcoreapp2.1\TweetBook.dll
+C:\Users\Irada\source\repos\TweetBook\TweetBook\obj\Debug\netcoreapp2.1\TweetBook.pdb
